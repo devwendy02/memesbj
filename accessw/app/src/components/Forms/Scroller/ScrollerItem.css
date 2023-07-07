@@ -1,0 +1,15 @@
+// Imports
+import ___CSS_LOADER_API_SOURCEMAP_IMPORT___ from "../../../../node_modules/css-loader/dist/runtime/sourceMaps.js";
+import ___CSS_LOADER_API_IMPORT___ from "../../../../node_modules/css-loader/dist/runtime/api.js";
+var ___CSS_LOADER_EXPORT___=___CSS_LOADER_API_IMPORT___(___CSS_LOADER_API_SOURCEMAP_IMPORT___);
+// Module
+___CSS_LOADER_EXPORT___.push([module.id, ".wallet__name {\n    font-weight: bold;\n    font-size: .75rem;\n}\n\n.up__value,\n.down__value {\n    font-size: .75rem;\n}\n\n.scroller__item__wrapper {\n    /* width: 18rem; */\n    min-width: 20rem;\n    border-right: 1px solid #2a2e39;\n    cursor: pointer;\n}\n\n.scroller__item__wrapper:hover {\n    background: #070e27;\n    background: rgba(22, 32, 68, .5);\n}\n\n/* .inner__wrapper {\n    animation: 10000ms scroller linear infinite;\n}\n\n@keyframes scroller {\n    from {\n        transform: translateX(1900px);\n    }\n\n    to {\n        transform: translateX(-2700px);\n    }\n\n} */", "", {
+    "version": 3, "sources":["webpack://./src/components/Forms/Scroller/ScrollerItem.css"], "names":[], "mappings":"AAAA;IACI,iBAAiB;IACjB,iBAAiB;AACrB;;AAEA;;IAEI,iBAAiB;AACrB;;AAEA;IACI,kBAAkB;IAClB,gBAAgB;IAChB,+BAA+B;IAC/B,eAAe;AACnB;;AAEA;IACI,mBAAmB;IACnB,gCAAgC;AACpC;;AAEA;;;;;;;;;;;;;GAaG", "sourcesContent":[".wallet__name {\n    font-weight: bold;\n    font-size: .75rem;\n}\n\n.up__value,\n.down__value {\n    font-size: .75rem;\n}\n\n.scroller__item__wrapper {\n    /* width: 18rem; */\n    min-width: 20rem;\n    border-right: 1px solid #2a2e39;\n    cursor: pointer;\n}\n\n.scroller__item__wrapper:hover {\n    background: #070e27;\n    background: rgba(22, 32, 68, .5);\n}\n\n/* .inner__wrapper {\n    animation: 10000ms scroller linear infinite;\n}\n\n@keyframes scroller {\n    from {\n        transform: translateX(1900px);\n    }\n\n    to {\n        transform: translateX(-2700px);\n    }\n\n} */"], "sourceRoot":""
+}
+
+]);
+// Exports
+___CSS_LOADER_EXPORT___.locals= {}
+
+;
+export default ___CSS_LOADER_EXPORT___;
